@@ -37,4 +37,4 @@ An all-in-one, AI-powered Enterprise Ticketing and Management Portal built for m
 * **Utilities:** Passlib (Hashing), FPDF, SMTPLib
 
 ## 🌐 Live Demo
-Try the application live here: [INSERT YOUR STREAMLIT APP LINK HERE]
+Try the application live here: https://nexus-enterprise-super-app-projects.streamlit.app/
