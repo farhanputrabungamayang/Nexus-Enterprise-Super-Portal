@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+passlib
+fpdf
+google-generativeai
+PyPDF2
+pillow
+requests
