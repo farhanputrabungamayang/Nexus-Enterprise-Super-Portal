@@ -1,0 +1,42 @@
+# =========================
+# 1. STREAMLIT & SECRETS (SUPER KRUSIAL!)
+# =========================
+.streamlit/secrets.toml
+.env
+secrets.toml
+
+# =========================
+# 2. DATABASE LOKAL
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+nexus_super_portal.db
+
+# =========================
+# 3. FOLDER UPLOAD USER
+# =========================
+uploads/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# =========================
+# 4. PYTHON CACHE & VIRTUAL ENV
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# =========================
+# 5. OS & IDE FILES (VS CODE DLL)
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
